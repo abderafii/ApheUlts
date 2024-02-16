@@ -1,0 +1,52 @@
+body {
+    background-image: url("aphe.jpg");
+    background-size: cover;
+    font-family: 'Helvetica Neue', sans-serif;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.container {
+    background: #A1A1F7;
+    max-width: 60%;
+    margin: auto;
+    margin-top: 480px;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #2C2891;
+}
+
+#save-btn {
+    background: #1C7947;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
